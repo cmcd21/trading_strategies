@@ -15,4 +15,4 @@ using the S&P500 Index - a market-capitalization-weighted index of the 500 large
 - plotly
 
 
-To view the notebook using NBViewer, click [here](https://nbviewer.jupyter.org/github/cmcd21/trading_strategies/blob/master/BuyAndHold_Vs_Momentum.ipynb)*.
+To view the notebook using NBViewer, click *[here](https://nbviewer.jupyter.org/github/cmcd21/trading_strategies/blob/master/BuyAndHold_Vs_Momentum.ipynb)*.
